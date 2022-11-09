@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "283326913020",
+    "project_id": "mazerunner-72b96",
+    "storage_bucket": "mazerunner-72b96.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283326913020:android:5bdc68d889723c0259fa79",
+        "android_client_info": {
+          "package_name": "com.example.maze_runner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283326913020-mlngsbdt0tlv60igniblg237qalljh7q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0lb_uA8PkHPgbAkc-X5C41GgKXu-a29s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "283326913020-mlngsbdt0tlv60igniblg237qalljh7q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
